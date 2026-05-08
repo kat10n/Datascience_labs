@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fca494bc-e5b3-42fd-9266-b6172acfb1e6" name="Changes" comment="added README.md, fixed bugs">
+      <change afterPath="$PROJECT_DIR$/.idea/Datascience_labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Lab1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Lab1.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kat10n&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kat10n/Datascience_labs.git&quot;,
+    &quot;accountId&quot;: &quot;99eeafff-860a-49d8-b945-68d0f813931e&quot;
+  }
+}</component>
+  <component name="NamedScopeManager">
+    <scope name="GitScope" pattern="GitScopeFiles" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3BoAd58tp8gvui0kOj6Emk2qFp7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KatyaSigma\PycharmProjects\Datascience_labs\Lab1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fca494bc-e5b3-42fd-9266-b6172acfb1e6" name="Changes" comment="" />
+      <created>1775145133843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775145133843</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lab 1 started">
+      <option name="closed" value="true" />
+      <created>1775145787987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775145787987</updated>
+    </task>
+    <task id="LOCAL-00002" summary="добавила вывод к линейной регрессии и отношение True/False в депрессии">
+      <option name="closed" value="true" />
+      <created>1775163200895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775163200895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="добавлены Feature engineering">
+      <option name="closed" value="true" />
+      <created>1775238627280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775238627280</updated>
+    </task>
+    <task id="LOCAL-00004" summary="добавлена логистическая регрессия">
+      <option name="closed" value="true" />
+      <created>1775333750753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775333750753</updated>
+    </task>
+    <task id="LOCAL-00005" summary="добавлен feature engineering для логистической регрессии">
+      <option name="closed" value="true" />
+      <created>1775338933062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775338933062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added README.md, fixed bugs">
+      <option name="closed" value="true" />
+      <created>1776021291500</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776021291500</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab 1 started" />
+    <MESSAGE value="добавила вывод к линейной регрессии и отношение True/False в депрессии" />
+    <MESSAGE value="добавлены Feature engineering" />
+    <MESSAGE value="добавлена логистическая регрессия" />
+    <MESSAGE value="добавлен feature engineering для логистической регрессии" />
+    <MESSAGE value="added README.md, fixed bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="added README.md, fixed bugs" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
