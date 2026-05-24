@@ -4,319 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fca494bc-e5b3-42fd-9266-b6172acfb1e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab3/Lab3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/annotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00023.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00024.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00025.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00026.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00027.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00028.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00029.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00030.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00031.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00032.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00033.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00034.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00035.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00036.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00037.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00038.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00039.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00040.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00041.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00042.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00043.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00044.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00045.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00046.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00047.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00049.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00050.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00051.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00052.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00053.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00054.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00055.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00056.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00057.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00058.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00059.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00060.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00061.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00062.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00063.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00064.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00065.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00066.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00067.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00068.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00069.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00070.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00071.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00072.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00073.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00074.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00075.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00076.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00077.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00078.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00079.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00081.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00082.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00083.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00084.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00085.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00086.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00087.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00088.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00089.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00090.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00091.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00092.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00093.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00094.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00095.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00096.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00097.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00098.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00099.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00101.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00102.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00103.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00104.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00105.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00106.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00107.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00108.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00109.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00111.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00113.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00114.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00115.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00116.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00117.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00118.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00119.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00120.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00121.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00122.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00123.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00124.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00125.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00126.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00127.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00129.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00130.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00131.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00132.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00133.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00134.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00135.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00136.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00137.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00138.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00139.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00141.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00142.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00143.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00144.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00145.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00146.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00147.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00148.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00149.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00150.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00151.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00152.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00153.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00154.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00156.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00157.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00158.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00159.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00160.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00161.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00162.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00163.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00164.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00165.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00166.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00167.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00168.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00169.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00170.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00171.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00172.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00173.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00174.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00175.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00176.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00177.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00178.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00179.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00180.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00181.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00182.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00183.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00184.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00185.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00186.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00187.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00188.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00189.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00190.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00191.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00192.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00193.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00194.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00195.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00196.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00197.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00198.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00199.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00201.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00202.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00203.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00204.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00205.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00206.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00207.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00208.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00209.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00210.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00211.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00212.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00213.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00214.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00215.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00216.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00217.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00218.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00219.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00220.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00221.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00222.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00223.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00224.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00226.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00227.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00229.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00230.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00231.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00232.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00233.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00234.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00235.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00236.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00237.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00238.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00239.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00240.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00241.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00242.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00243.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00244.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00245.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00246.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00247.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00248.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00249.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00251.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00252.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00253.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00254.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00255.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00256.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00257.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00258.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00259.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00260.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00261.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00262.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00263.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00264.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00265.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00266.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00267.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00268.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00269.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00271.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00272.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00273.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00274.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00275.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00276.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00277.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00278.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00279.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00281.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00282.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00283.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00284.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00285.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00286.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00287.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00288.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00289.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00290.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00291.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00292.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00293.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00294.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00295.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00296.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00297.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00298.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00299.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/frames/00300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/input.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/output.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="fca494bc-e5b3-42fd-9266-b6172acfb1e6" name="Changes" comment="начало 3 лабы">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Lab1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Lab1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/Lab2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/have_fun_fixed.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/have_fun_fixed.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Lab3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -360,6 +52,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.11.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -469,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778919056185</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="начало 3 лабы">
+      <option name="closed" value="true" />
+      <created>1779042362438</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1779042362438</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -483,7 +184,8 @@
     <MESSAGE value="редактировала обработку выбосов, чтобы она велась по городам и месяцам и добавила графиков" />
     <MESSAGE value="Сделала основную часть лабы, написала README.md и requirements.txt" />
     <MESSAGE value="небольшие правки README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="небольшие правки README.md" />
+    <MESSAGE value="начало 3 лабы" />
+    <option name="LAST_COMMIT_MESSAGE" value="начало 3 лабы" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
