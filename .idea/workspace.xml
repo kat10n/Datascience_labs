@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fca494bc-e5b3-42fd-9266-b6172acfb1e6" name="Changes" comment="начало 3 лабы">
+    <list default="true" id="fca494bc-e5b3-42fd-9266-b6172acfb1e6" name="Changes" comment="добавила получившееся видео">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab3/Lab3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/output_predicted.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/output_predicted.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +169,23 @@
       <option name="project" value="LOCAL" />
       <updated>1779042362438</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="обучила 2 модели, добавила README.md и markdown">
+      <option name="closed" value="true" />
+      <created>1779632675376</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1779632675376</updated>
+    </task>
+    <task id="LOCAL-00013" summary="добавила получившееся видео">
+      <option name="closed" value="true" />
+      <created>1779632779569</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1779632779569</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,7 +200,9 @@
     <MESSAGE value="Сделала основную часть лабы, написала README.md и requirements.txt" />
     <MESSAGE value="небольшие правки README.md" />
     <MESSAGE value="начало 3 лабы" />
-    <option name="LAST_COMMIT_MESSAGE" value="начало 3 лабы" />
+    <MESSAGE value="обучила 2 модели, добавила README.md и markdown" />
+    <MESSAGE value="добавила получившееся видео" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавила получившееся видео" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
